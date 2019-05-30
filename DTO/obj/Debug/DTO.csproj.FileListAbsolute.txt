@@ -1,0 +1,34 @@
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DTO\bin\Debug\DTO.dll
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DTO\bin\Debug\DTO.pdb
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DTO\obj\Debug\DTO.dll
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DTO\obj\Debug\DTO.pdb
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DTO\bin\Debug\DTO.dll
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DTO\bin\Debug\DTO.pdb
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DTO\obj\Debug\DTO.dll
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DTO\obj\Debug\DTO.pdb
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DTO\bin\Debug\DTO.dll
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DTO\bin\Debug\DTO.pdb
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DTO\obj\Debug\DTO.dll
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DTO\obj\Debug\DTO.pdb
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DTO\bin\Debug\DTO.dll
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DTO\bin\Debug\DTO.pdb
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DTO\obj\Debug\DTO.dll
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DTO\obj\Debug\DTO.pdb
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DTO\bin\Debug\DTO.dll
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DTO\bin\Debug\DTO.pdb
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DTO\obj\Debug\DTO.dll
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DTO\obj\Debug\DTO.pdb
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DTO\bin\Debug\DTO.dll
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DTO\bin\Debug\DTO.pdb
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DTO\obj\Debug\DTO.dll
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,33 @@
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\Lib\bin\Debug\Lib.dll
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\Lib\bin\Debug\Lib.pdb
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\Lib\obj\Debug\Lib.dll
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\Lib\obj\Debug\Lib.pdb
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\Lib\bin\Debug\Lib.dll
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\Lib\bin\Debug\Lib.pdb
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\Lib\obj\Debug\Lib.csprojAssemblyReference.cache
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\Lib\obj\Debug\Lib.dll
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\Lib\obj\Debug\Lib.pdb
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\Lib\bin\Debug\Lib.dll
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\Lib\bin\Debug\Lib.pdb
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\Lib\obj\Debug\Lib.csprojAssemblyReference.cache
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\Lib\obj\Debug\Lib.dll
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\Lib\obj\Debug\Lib.pdb
+E:\Work\DoAnDBMS\Source\DoAnDBMS\Lib\bin\Debug\Lib.dll
+E:\Work\DoAnDBMS\Source\DoAnDBMS\Lib\bin\Debug\Lib.pdb
+E:\Work\DoAnDBMS\Source\DoAnDBMS\Lib\obj\Debug\Lib.csprojAssemblyReference.cache
+E:\Work\DoAnDBMS\Source\DoAnDBMS\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+E:\Work\DoAnDBMS\Source\DoAnDBMS\Lib\obj\Debug\Lib.dll
+E:\Work\DoAnDBMS\Source\DoAnDBMS\Lib\obj\Debug\Lib.pdb
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\Lib\bin\Debug\Lib.dll
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\Lib\bin\Debug\Lib.pdb
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\Lib\obj\Debug\Lib.dll
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\Lib\obj\Debug\Lib.pdb
+D:\CNPM\N1\DoAnDBMS\Lib\bin\Debug\Lib.dll
+D:\CNPM\N1\DoAnDBMS\Lib\bin\Debug\Lib.pdb
+D:\CNPM\N1\DoAnDBMS\Lib\obj\Debug\Lib.csprojAssemblyReference.cache
+D:\CNPM\N1\DoAnDBMS\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+D:\CNPM\N1\DoAnDBMS\Lib\obj\Debug\Lib.dll
+D:\CNPM\N1\DoAnDBMS\Lib\obj\Debug\Lib.pdb

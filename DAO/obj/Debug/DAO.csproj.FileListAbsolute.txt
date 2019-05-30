@@ -1,0 +1,106 @@
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DAO\bin\Debug\DAO.dll.config
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DAO\bin\Debug\DAO.dll
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DAO\bin\Debug\DAO.pdb
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DAO\bin\Debug\DTO.dll
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DAO\bin\Debug\EntityFramework.dll
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DAO\bin\Debug\DTO.pdb
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DAO\bin\Debug\EntityFramework.xml
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DAO\obj\Debug\DAO.dll
+E:\Work\Desktop App\QuanLyHoaDon\QuanLyHoaDonProject\DAO\obj\Debug\DAO.pdb
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\DAO.dll.config
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\DAO.dll
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\DAO.pdb
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\DTO.dll
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\EntityFramework.dll
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\DTO.pdb
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\EntityFramework.xml
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\obj\Debug\DAO.dll
+E:\Work\DoAnDBMS\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\obj\Debug\DAO.pdb
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\DAO.dll.config
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\DAO.dll
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\DAO.pdb
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\DTO.dll
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\EntityFramework.dll
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\DTO.pdb
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\EntityFramework.xml
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\obj\Debug\DAO.dll
+E:\Work\DoAnDBMS\Source\QuanLyHoaDonProject\QuanLyHoaDonProject\DAO\obj\Debug\DAO.pdb
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DAO\bin\Debug\DAO.dll.config
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DAO\bin\Debug\DAO.dll
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DAO\bin\Debug\DAO.pdb
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DAO\bin\Debug\DTO.dll
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DAO\bin\Debug\EntityFramework.dll
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DAO\bin\Debug\DTO.pdb
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DAO\bin\Debug\EntityFramework.xml
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DAO\obj\Debug\DAO.dll
+D:\GoogleDriver\DBMS\DoAn\DoAnDBMS\DAO\obj\Debug\DAO.pdb
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DAO\bin\Debug\DAO.dll.config
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DAO\bin\Debug\DAO.dll
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DAO\bin\Debug\DAO.pdb
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DAO\bin\Debug\DTO.dll
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DAO\bin\Debug\EntityFramework.dll
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DAO\bin\Debug\DTO.pdb
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DAO\bin\Debug\EntityFramework.xml
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DAO\obj\Debug\DAO.dll
+E:\Work\DoAnDBMS\Source\DoAnDBMS\DAO\obj\Debug\DAO.pdb
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DAO\bin\Debug\DAO.dll.config
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DAO\bin\Debug\DAO.dll
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DAO\bin\Debug\DAO.pdb
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DAO\bin\Debug\DTO.dll
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DAO\bin\Debug\EntityFramework.dll
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DAO\bin\Debug\DTO.pdb
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DAO\bin\Debug\EntityFramework.xml
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DAO\obj\Debug\DAO.dll
+D:\GoogleDriver\DBMS\DoAn\demov1\DoAnDBMS\DAO\obj\Debug\DAO.pdb
+D:\GoogleDriver\DBMS\DoAn\demov2\DoAnDBMS\DAO\bin\Debug\DAO.dll.config
+D:\GoogleDriver\DBMS\DoAn\demov2\DoAnDBMS\DAO\bin\Debug\DAO.dll
+D:\GoogleDriver\DBMS\DoAn\demov2\DoAnDBMS\DAO\bin\Debug\DAO.pdb
+D:\GoogleDriver\DBMS\DoAn\demov2\DoAnDBMS\DAO\bin\Debug\DTO.dll
+D:\GoogleDriver\DBMS\DoAn\demov2\DoAnDBMS\DAO\bin\Debug\EntityFramework.dll
+D:\GoogleDriver\DBMS\DoAn\demov2\DoAnDBMS\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\GoogleDriver\DBMS\DoAn\demov2\DoAnDBMS\DAO\bin\Debug\DTO.pdb
+D:\GoogleDriver\DBMS\DoAn\demov2\DoAnDBMS\DAO\bin\Debug\EntityFramework.xml
+D:\GoogleDriver\DBMS\DoAn\demov2\DoAnDBMS\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\GoogleDriver\DBMS\DoAn\demov2\DoAnDBMS\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\GoogleDriver\DBMS\DoAn\demov2\DoAnDBMS\DAO\obj\Debug\DAO.dll
+D:\GoogleDriver\DBMS\DoAn\demov2\DoAnDBMS\DAO\obj\Debug\DAO.pdb
+D:\CNPM\N1\DoAnDBMS\DAO\bin\Debug\DAO.dll.config
+D:\CNPM\N1\DoAnDBMS\DAO\bin\Debug\DAO.dll
+D:\CNPM\N1\DoAnDBMS\DAO\bin\Debug\DAO.pdb
+D:\CNPM\N1\DoAnDBMS\DAO\bin\Debug\DTO.dll
+D:\CNPM\N1\DoAnDBMS\DAO\bin\Debug\EntityFramework.dll
+D:\CNPM\N1\DoAnDBMS\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\CNPM\N1\DoAnDBMS\DAO\bin\Debug\DTO.pdb
+D:\CNPM\N1\DoAnDBMS\DAO\bin\Debug\EntityFramework.xml
+D:\CNPM\N1\DoAnDBMS\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\CNPM\N1\DoAnDBMS\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\CNPM\N1\DoAnDBMS\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\CNPM\N1\DoAnDBMS\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\CNPM\N1\DoAnDBMS\DAO\obj\Debug\DAO.dll
+D:\CNPM\N1\DoAnDBMS\DAO\obj\Debug\DAO.pdb
